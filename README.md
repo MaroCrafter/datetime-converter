@@ -15,5 +15,5 @@ Install python and run this command in command prompt (or download the finished 
 Once finished, you can just open the python file and you should be good to go.
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/UvmlEZ1)
+https://imgur.com/a/UvmlEZ1
 
